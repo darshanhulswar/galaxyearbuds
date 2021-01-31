@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.carousel-earbud-1 {
+  height: 50vh;
+  width: 100vw;
+  background: url(https://images.samsung.com/is/image/samsung/assets/in/galaxy-s21/galaxy-buds-pro/pf/8.pf_kv_galaxy_buds_pro_violet_1440X344_pc.jpg?$ORIGIN_JPG$);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.carousel-earbud-2 {
+  height: 50vh;
+  width: 100vw;
+  background: url(https://images.samsung.com/is/image/samsung/assets/in/pf/Buds-Live-white-Desk.jpg?$ORIGIN_JPG$);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.carousel-earbud-3 {
+  height: 50vh;
+  width: 100vw;
+  background: url(https://images.samsung.com/is/image/samsung/assets/in/pf/Buds-Live-Desk-1.jpg?$ORIGIN_JPG$);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
